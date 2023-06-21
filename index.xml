@@ -84,6 +84,15 @@
       <description>Desc Text.</description>
     </item>
     
+    <item>
+      <title>블로그 구축 가이드</title>
+      <link>https://mapoalaba.github.io/posts/blog/</link>
+      <pubDate>Tue, 04 Apr 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://mapoalaba.github.io/posts/blog/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     
     
   </channel>
