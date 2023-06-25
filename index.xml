@@ -11,25 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>[파이썬] 1~6</title>
-      <link>https://mapoalaba.github.io/posts/python/</link>
-      <pubDate>Thu, 22 Jun 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://mapoalaba.github.io/posts/python/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>[데이터베이스] 정규화</title>
-      <link>https://mapoalaba.github.io/posts/db-01/</link>
-      <pubDate>Wed, 12 Apr 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://mapoalaba.github.io/posts/db-01/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 11 Apr 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[C 언어] 배열</title>
       <link>https://mapoalaba.github.io/posts/c-07/</link>
@@ -94,7 +76,7 @@
     </item>
     
     <item>
-      <title>블로그 구축 가이드</title>
+      <title>GitHub.io와 Hugo를 이용한 블로그 구축 가이드</title>
       <link>https://mapoalaba.github.io/posts/github01/</link>
       <pubDate>Tue, 04 Apr 2023 11:30:03 +0000</pubDate>
       
