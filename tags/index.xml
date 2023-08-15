@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Apr 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 May 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS</title>
+      <link>https://mapoalaba.github.io/tags/cs/</link>
+      <pubDate>Fri, 12 May 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://mapoalaba.github.io/tags/cs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>운영체제</title>
+      <link>https://mapoalaba.github.io/tags/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/</link>
+      <pubDate>Fri, 12 May 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://mapoalaba.github.io/tags/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>C 언어</title>
       <link>https://mapoalaba.github.io/tags/c-%EC%96%B8%EC%96%B4/</link>

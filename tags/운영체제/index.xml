@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>운영체제 on 마포알라바 블로그</title>
+    <link>https://mapoalaba.github.io/tags/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/</link>
+    <description>Recent content in 운영체제 on 마포알라바 블로그</description>
+    <image>
+      <title>마포알라바 블로그</title>
+      <url>https://mapoalaba.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://mapoalaba.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 May 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/tags/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[CS 개념] 운영체제(1)</title>
+      <link>https://mapoalaba.github.io/posts/os-01/</link>
+      <pubDate>Fri, 12 May 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://mapoalaba.github.io/posts/os-01/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>
