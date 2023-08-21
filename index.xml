@@ -11,25 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 May 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>[CS 개념] 운영체제 (2)</title>
-      <link>https://mapoalaba.github.io/posts/cs-01/</link>
-      <pubDate>Sat, 20 May 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://mapoalaba.github.io/posts/cs-01/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>[CS 개념] 운영체제 (1)</title>
-      <link>https://mapoalaba.github.io/posts/os-01/</link>
-      <pubDate>Fri, 12 May 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://mapoalaba.github.io/posts/os-01/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 11 Apr 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[C 언어] 배열</title>
       <link>https://mapoalaba.github.io/posts/c-07/</link>
