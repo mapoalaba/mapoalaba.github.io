@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Aug 2023 01:00:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Aug 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[인터넷보안] 02. 물리적 보안 </title>
+      <link>https://mapoalaba.github.io/posts/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B3%B4%EC%95%8802/</link>
+      <pubDate>Mon, 28 Aug 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://mapoalaba.github.io/posts/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B3%B4%EC%95%8802/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     <item>
       <title>[CS] 03. 프로세스 개념 </title>
       <link>https://mapoalaba.github.io/posts/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C03/</link>

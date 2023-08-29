@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mapoalaba.github.io/posts/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C03/</loc>
-    <lastmod>2023-08-27T01:00:03+00:00</lastmod>
+    <loc>https://mapoalaba.github.io/posts/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B3%B4%EC%95%8802/</loc>
+    <lastmod>2023-08-28T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://mapoalaba.github.io/categories/</loc>
+    <lastmod>2023-08-28T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://mapoalaba.github.io/posts/</loc>
+    <lastmod>2023-08-28T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://mapoalaba.github.io/tags/</loc>
+    <lastmod>2023-08-28T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://mapoalaba.github.io/</loc>
+    <lastmod>2023-08-28T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://mapoalaba.github.io/tags/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B3%B4%EC%95%88/</loc>
+    <lastmod>2023-08-28T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://mapoalaba.github.io/categories/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B3%B4%EC%95%88/</loc>
+    <lastmod>2023-08-28T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://mapoalaba.github.io/posts/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C03/</loc>
     <lastmod>2023-08-27T01:00:03+00:00</lastmod>
   </url><url>
     <loc>https://mapoalaba.github.io/tags/cs/</loc>
     <lastmod>2023-08-27T01:00:03+00:00</lastmod>
   </url><url>
     <loc>https://mapoalaba.github.io/categories/cs/</loc>
-    <lastmod>2023-08-27T01:00:03+00:00</lastmod>
-  </url><url>
-    <loc>https://mapoalaba.github.io/posts/</loc>
-    <lastmod>2023-08-27T01:00:03+00:00</lastmod>
-  </url><url>
-    <loc>https://mapoalaba.github.io/tags/</loc>
-    <lastmod>2023-08-27T01:00:03+00:00</lastmod>
-  </url><url>
-    <loc>https://mapoalaba.github.io/</loc>
     <lastmod>2023-08-27T01:00:03+00:00</lastmod>
   </url><url>
     <loc>https://mapoalaba.github.io/posts/%EC%95%94%ED%98%B8%ED%95%9901/</loc>
@@ -33,12 +42,6 @@
     <lastmod>2023-08-25T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://mapoalaba.github.io/posts/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B3%B4%EC%95%8801/</loc>
-    <lastmod>2023-08-22T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://mapoalaba.github.io/tags/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B3%B4%EC%95%88/</loc>
-    <lastmod>2023-08-22T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://mapoalaba.github.io/categories/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B3%B4%EC%95%88/</loc>
     <lastmod>2023-08-22T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://mapoalaba.github.io/posts/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C01/</loc>
