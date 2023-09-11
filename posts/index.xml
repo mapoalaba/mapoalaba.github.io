@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Aug 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Sep 2023 01:00:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[CS] 04. CPU 스케줄링 </title>
+      <link>https://mapoalaba.github.io/posts/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C04/</link>
+      <pubDate>Sun, 03 Sep 2023 01:00:03 +0000</pubDate>
+      
+      <guid>https://mapoalaba.github.io/posts/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C04/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>[사이버포렌식] 01. 사이버포렌식</title>
+      <link>https://mapoalaba.github.io/posts/%ED%8F%AC%EB%A0%8C%EC%8B%9D01/</link>
+      <pubDate>Tue, 29 Aug 2023 19:30:03 +0000</pubDate>
+      
+      <guid>https://mapoalaba.github.io/posts/%ED%8F%AC%EB%A0%8C%EC%8B%9D01/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     <item>
       <title>[인터넷보안] 02. 물리적 보안 </title>
       <link>https://mapoalaba.github.io/posts/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B3%B4%EC%95%8802/</link>
@@ -31,11 +49,11 @@
     </item>
     
     <item>
-      <title>[암호학] 01. 암호학</title>
-      <link>https://mapoalaba.github.io/posts/%EC%95%94%ED%98%B8%ED%95%9901/</link>
+      <title>[자료구조] 01. 자료구조 </title>
+      <link>https://mapoalaba.github.io/posts/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B001/</link>
       <pubDate>Fri, 25 Aug 2023 11:30:03 +0000</pubDate>
       
-      <guid>https://mapoalaba.github.io/posts/%EC%95%94%ED%98%B8%ED%95%9901/</guid>
+      <guid>https://mapoalaba.github.io/posts/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B001/</guid>
       <description>Desc Text.</description>
     </item>
     
