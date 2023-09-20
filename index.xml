@@ -11,130 +11,121 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Sep 2023 01:00:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>[CS] 04. CPU 스케줄링 </title>
-      <link>https://mapoalaba.github.io/posts/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C04/</link>
-      <pubDate>Sun, 03 Sep 2023 01:00:03 +0000</pubDate>
-      
-      <guid>https://mapoalaba.github.io/posts/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C04/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 28 Aug 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[인터넷보안] 02. 물리적 보안 </title>
-      <link>https://mapoalaba.github.io/posts/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B3%B4%EC%95%8802/</link>
+      <link>https://mapoalaba.github.io/posts/%EB%B3%B4%EC%95%88/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B3%B4%EC%95%8802/</link>
       <pubDate>Mon, 28 Aug 2023 11:30:03 +0000</pubDate>
       
-      <guid>https://mapoalaba.github.io/posts/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B3%B4%EC%95%8802/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>[CS] 03. 프로세스 개념 </title>
-      <link>https://mapoalaba.github.io/posts/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C03/</link>
-      <pubDate>Sun, 27 Aug 2023 01:00:03 +0000</pubDate>
-      
-      <guid>https://mapoalaba.github.io/posts/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C03/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>[자료구조] 01. 자료구조 </title>
-      <link>https://mapoalaba.github.io/posts/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B001/</link>
-      <pubDate>Fri, 25 Aug 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://mapoalaba.github.io/posts/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B001/</guid>
+      <guid>https://mapoalaba.github.io/posts/%EB%B3%B4%EC%95%88/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B3%B4%EC%95%8802/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>[인터넷보안] 01. BCP/DRP </title>
-      <link>https://mapoalaba.github.io/posts/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B3%B4%EC%95%8801/</link>
-      <pubDate>Tue, 22 Aug 2023 11:30:03 +0000</pubDate>
+      <link>https://mapoalaba.github.io/posts/%EB%B3%B4%EC%95%88/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B3%B4%EC%95%8801/</link>
+      <pubDate>Sun, 27 Aug 2023 11:30:03 +0000</pubDate>
       
-      <guid>https://mapoalaba.github.io/posts/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B3%B4%EC%95%8801/</guid>
+      <guid>https://mapoalaba.github.io/posts/%EB%B3%B4%EC%95%88/%EC%9D%B8%ED%84%B0%EB%84%B7%EB%B3%B4%EC%95%8801/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>[CS] 04. CPU 스케줄링 </title>
+      <link>https://mapoalaba.github.io/posts/cs/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C04/</link>
+      <pubDate>Wed, 23 Aug 2023 01:00:03 +0000</pubDate>
+      
+      <guid>https://mapoalaba.github.io/posts/cs/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C04/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>[CS] 03. 프로세스 개념 </title>
+      <link>https://mapoalaba.github.io/posts/cs/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C03/</link>
+      <pubDate>Tue, 22 Aug 2023 01:00:03 +0000</pubDate>
+      
+      <guid>https://mapoalaba.github.io/posts/cs/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C03/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>[CS] 01. 운영체제란 ?? </title>
-      <link>https://mapoalaba.github.io/posts/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C01/</link>
+      <link>https://mapoalaba.github.io/posts/cs/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C01/</link>
       <pubDate>Mon, 21 Aug 2023 11:30:03 +0000</pubDate>
       
-      <guid>https://mapoalaba.github.io/posts/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C01/</guid>
+      <guid>https://mapoalaba.github.io/posts/cs/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C01/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>[C 언어] 배열</title>
-      <link>https://mapoalaba.github.io/posts/c-07/</link>
+      <link>https://mapoalaba.github.io/posts/c/c-07/</link>
       <pubDate>Tue, 11 Apr 2023 11:30:03 +0000</pubDate>
       
-      <guid>https://mapoalaba.github.io/posts/c-07/</guid>
+      <guid>https://mapoalaba.github.io/posts/c/c-07/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>[C 언어] 06. 반복문</title>
-      <link>https://mapoalaba.github.io/posts/c-06/</link>
+      <link>https://mapoalaba.github.io/posts/c/c-06/</link>
       <pubDate>Mon, 10 Apr 2023 11:30:03 +0000</pubDate>
       
-      <guid>https://mapoalaba.github.io/posts/c-06/</guid>
+      <guid>https://mapoalaba.github.io/posts/c/c-06/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>[C 언어] 05. 조건문</title>
-      <link>https://mapoalaba.github.io/posts/c-05/</link>
+      <link>https://mapoalaba.github.io/posts/c/c-05/</link>
       <pubDate>Sun, 09 Apr 2023 11:30:03 +0000</pubDate>
       
-      <guid>https://mapoalaba.github.io/posts/c-05/</guid>
+      <guid>https://mapoalaba.github.io/posts/c/c-05/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>[C 언어] 04. 입력문</title>
-      <link>https://mapoalaba.github.io/posts/c-04/</link>
+      <link>https://mapoalaba.github.io/posts/c/c-04/</link>
       <pubDate>Sat, 08 Apr 2023 11:30:03 +0000</pubDate>
       
-      <guid>https://mapoalaba.github.io/posts/c-04/</guid>
+      <guid>https://mapoalaba.github.io/posts/c/c-04/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>[C 언어] 03. 출력문</title>
-      <link>https://mapoalaba.github.io/posts/c-03/</link>
+      <link>https://mapoalaba.github.io/posts/c/c-03/</link>
       <pubDate>Fri, 07 Apr 2023 11:30:03 +0000</pubDate>
       
-      <guid>https://mapoalaba.github.io/posts/c-03/</guid>
+      <guid>https://mapoalaba.github.io/posts/c/c-03/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>[C 언어] 02. 연산자</title>
-      <link>https://mapoalaba.github.io/posts/c-02/</link>
+      <link>https://mapoalaba.github.io/posts/c/c-02/</link>
       <pubDate>Thu, 06 Apr 2023 11:30:03 +0000</pubDate>
       
-      <guid>https://mapoalaba.github.io/posts/c-02/</guid>
+      <guid>https://mapoalaba.github.io/posts/c/c-02/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>[C 언어] 01. 주석문, 자료형과 변수</title>
-      <link>https://mapoalaba.github.io/posts/c-01/</link>
+      <link>https://mapoalaba.github.io/posts/c/c-01/</link>
       <pubDate>Wed, 05 Apr 2023 11:30:03 +0000</pubDate>
       
-      <guid>https://mapoalaba.github.io/posts/c-01/</guid>
+      <guid>https://mapoalaba.github.io/posts/c/c-01/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>GitHub.io와 Hugo를 이용한 블로그 구축 가이드</title>
-      <link>https://mapoalaba.github.io/posts/github01/</link>
+      <link>https://mapoalaba.github.io/posts/git/github01/</link>
       <pubDate>Tue, 04 Apr 2023 11:30:03 +0000</pubDate>
       
-      <guid>https://mapoalaba.github.io/posts/github01/</guid>
+      <guid>https://mapoalaba.github.io/posts/git/github01/</guid>
       <description>Desc Text.</description>
     </item>
     
