@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>네트워크 on 마포알라바 블로그</title>
-    <link>https://mapoalaba.github.io/categories/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/</link>
-    <description>Recent content in 네트워크 on 마포알라바 블로그</description>
+    <title>네트워크 관리사 2급 on 마포알라바 블로그</title>
+    <link>https://mapoalaba.github.io/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B4%80%EB%A6%AC%EC%82%AC-2%EA%B8%89/</link>
+    <description>Recent content in 네트워크 관리사 2급 on 마포알라바 블로그</description>
     <image>
       <title>마포알라바 블로그</title>
       <url>https://mapoalaba.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Sep 2023 12:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/categories/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Sep 2023 12:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B4%80%EB%A6%AC%EC%82%AC-2%EA%B8%89/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[네트워크 관리사] 2급 실기 </title>
       <link>https://mapoalaba.github.io/posts/newwork/%EA%B4%80%EB%A6%AC%EC%82%AC2%EA%B8%89%EC%8B%A4%EA%B8%B0/</link>
