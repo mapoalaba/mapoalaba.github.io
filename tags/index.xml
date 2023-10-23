@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Sep 2023 12:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Oct 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java</title>
+      <link>https://mapoalaba.github.io/tags/java/</link>
+      <pubDate>Fri, 20 Oct 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://mapoalaba.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>네트워크 관리사 2급</title>
       <link>https://mapoalaba.github.io/tags/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B4%80%EB%A6%AC%EC%82%AC-2%EA%B8%89/</link>
@@ -45,15 +54,6 @@
       <pubDate>Wed, 23 Aug 2023 01:00:03 +0000</pubDate>
       
       <guid>https://mapoalaba.github.io/tags/cs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C 언어</title>
-      <link>https://mapoalaba.github.io/tags/c-%EC%96%B8%EC%96%B4/</link>
-      <pubDate>Tue, 11 Apr 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://mapoalaba.github.io/tags/c-%EC%96%B8%EC%96%B4/</guid>
       <description></description>
     </item>
     

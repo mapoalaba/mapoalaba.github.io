@@ -1,0 +1,30 @@
+객관식 14문제
+시맨틱 2문제
+선택자 2문제
+미디어쿼리 X
+4강-8문제
+5강-2문제
+6강-모두
+단답식 5문제
+소스 2문제- 3개씩
+        function res(){
+            var e=document.createElement("li");   // 요소 생성
+            var k=document.querySelector("#subject");
+            var t=document.createTextNode(k.value);
+
+            e.appendChild(t);
+            var i = document.querySelector("#item");
+            i.insertBefore(e, i.childNodes[0]);
+
+            subject.value="";
+
+1. 웹접근성
+img 태그의 alt는 대체 텍스트이며 화면 낭독기에서 이미지 대신 대체 텍스트를 읽어주는 것
+
+2. 반응형 웹 디자인
+<meta name="viewport" content="width=divice=width, initial-scale=1">
+*name : 뷰포트라는 것을 알려주는 이름
+*width : 뷰포트의 너비
+*initial-scale : 초기 확대/축소값(1~10)
+*user-scalable = yes/no : 확대 축소 가능여부
+

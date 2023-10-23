@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Sep 2023 12:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Oct 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Java] 02. 객체 지향 프로그래밍</title>
+      <link>https://mapoalaba.github.io/posts/java/java02/</link>
+      <pubDate>Fri, 20 Oct 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://mapoalaba.github.io/posts/java/java02/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>[Java] 01. Java에 입장하신걸 환영합니다.</title>
+      <link>https://mapoalaba.github.io/posts/java/java01/</link>
+      <pubDate>Thu, 19 Oct 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://mapoalaba.github.io/posts/java/java01/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
     <item>
       <title>[네트워크 관리사] 2급 실기 </title>
       <link>https://mapoalaba.github.io/posts/newwork/%EA%B4%80%EB%A6%AC%EC%82%AC2%EA%B8%89%EC%8B%A4%EA%B8%B0/</link>
@@ -67,75 +85,23 @@
     </item>
     
     <item>
-      <title>[C 언어] 배열</title>
-      <link>https://mapoalaba.github.io/posts/c/c-07/</link>
-      <pubDate>Tue, 11 Apr 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://mapoalaba.github.io/posts/c/c-07/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>[C 언어] 06. 반복문</title>
-      <link>https://mapoalaba.github.io/posts/c/c-06/</link>
-      <pubDate>Mon, 10 Apr 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://mapoalaba.github.io/posts/c/c-06/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>[C 언어] 05. 조건문</title>
-      <link>https://mapoalaba.github.io/posts/c/c-05/</link>
-      <pubDate>Sun, 09 Apr 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://mapoalaba.github.io/posts/c/c-05/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>[C 언어] 04. 입력문</title>
-      <link>https://mapoalaba.github.io/posts/c/c-04/</link>
-      <pubDate>Sat, 08 Apr 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://mapoalaba.github.io/posts/c/c-04/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>[C 언어] 03. 출력문</title>
-      <link>https://mapoalaba.github.io/posts/c/c-03/</link>
-      <pubDate>Fri, 07 Apr 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://mapoalaba.github.io/posts/c/c-03/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>[C 언어] 02. 연산자</title>
-      <link>https://mapoalaba.github.io/posts/c/c-02/</link>
-      <pubDate>Thu, 06 Apr 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://mapoalaba.github.io/posts/c/c-02/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>[C 언어] 01. 주석문, 자료형과 변수</title>
-      <link>https://mapoalaba.github.io/posts/c/c-01/</link>
-      <pubDate>Wed, 05 Apr 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://mapoalaba.github.io/posts/c/c-01/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
       <title>GitHub.io와 Hugo를 이용한 블로그 구축 가이드</title>
       <link>https://mapoalaba.github.io/posts/git/github01/</link>
       <pubDate>Tue, 04 Apr 2023 11:30:03 +0000</pubDate>
       
       <guid>https://mapoalaba.github.io/posts/git/github01/</guid>
       <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mapoalaba.github.io/posts/cs/1023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mapoalaba.github.io/posts/cs/1023/</guid>
+      <description> 교착상태 발생 조건 (출제)
+상호배제 비선점 보유대기(점유와 대기) 순환대기(환형대기) 교착상태 해결 방안 (출제)
+예방 데드락의 4가지 조건 중 하나를 차단해서 데드락 상태에 들어가지 못하도록 하는 것 비용 ⬆︎, 좋은 방법 X 회피 (가장 많이 쓰는 방법) 은행 알고리즘 (계산법 출제) 모든 자원을 자원 유형으로 그룹 안정 상태 프로세스가 작업을 유한 시간 내에 완료되도록 보장 불안정 상태 교착 상태에 있지 않지만 프로세스가 작업을 유한 시간 내에 완료되도록 보장 못함 자원에 번호를 매겨서 오름(내림)차순으로만 자원을 할당 회복 특별한 알고리즘이 없기에 경험으로 해결 </description>
     </item>
     
   </channel>
