@@ -1,0 +1,69 @@
+라우터가 직접 가지고 있는 커넥터 정보 0
+스태틱은 기본값이 1
+
+동적라우팅 프로토콜을 우선적으로 사용하고 대체용으로 스태틱을 사용하는데 이때 AD의 값을 스태틱을 동적라우팅 프로토콜의 AD값보다 높게 설정해준다
+이를 플로팅 스태틱이라 함
+
+게이트웨이의 값도 똑같아야함 똑같지 않다면 AD의 값의 관계없이 둘다 사용
+
+
+config# ip route network정보 / 프리픽스정보 / next 홉정보 또는 outgoing Interface  [ AD값 ]     // 스태틱설정
+
+
+ip 라우팅 테이블에 next-hop 정보가 존재해야 스태틱 경로가 나타난다.
+
+next hop -> 네트워크 정보 -> next hop -> ... -> serial, fa
+
+<라우팅 프로토콜 설정>
+config# router protocol [options]
+config-router# newtwork network-number
+
+
+최대 홉 15, 최대 매트릭 16
+들어올땐 홉, 나갈떈 매트릭
+
+
+config# router rip
+
+config# router ospf 프로세스번호
+
+config# router eigrp eigrpAS번호
+
+config# router bgp AS모드
+
+(config-router)# network / 연결된 네트워크 정보중에서 광고할 네트워크정보
+
+
+
+ex) network 12.0.0.0
+
+12.x.x.x로 시작하는 네트워크가 있는지 확인 후 있으면 광고 (RIP은 종류 관계 상관없이 다뿌림)
+
+RIP은 classful 라우팅 프로토콜 (프리픽스정보를 넘기지 않는다.) 서브넷 마스크 정보를 넘기지 않는다.
+
+
+c : 0
+static : 1
+EIGRP : 90
+OSPF : 110
+RIP : 120
+
+
+stub 네트워크 (출구 하나)
+classful
+주기적 업데이트
+브로드케스트 업데이트
+인접 장비의 업데이트 정보로 라우팅 테이블이 완성
+기본적으로 스핏 호라이즌과 홀다운 메커니즘을 이용
+동적라우팅
+디스팅트 백터 프로토콜 : 상대가 주는걸 받아서 라우팅 테이블 구성 (디폴트가 auto 썸머 B클래스면 프리픽스 16)
+
+ripv1 : 서브넷 마스크 정보를 포함하지 않는 라우팅 프로토콜
+
+
+정적 경로 장점
+1. 원하는 곳으로 패킷 전송
+2. 유지를 위한 자원의 소모가 거의 없다
+
+egp : bgp
+
