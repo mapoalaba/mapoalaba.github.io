@@ -30,16 +30,5 @@
       <description>Desc Text.</description>
     </item>
     
-    <item>
-      <title></title>
-      <link>https://mapoalaba.github.io/posts/cs/1023/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mapoalaba.github.io/posts/cs/1023/</guid>
-      <description>교착상태 발생 조건 (출제)
-상호배제 비선점 보유대기(점유와 대기) 순환대기(환형대기) 교착상태 해결 방안 (출제)
-예방 데드락의 4가지 조건 중 하나를 차단해서 데드락 상태에 들어가지 못하도록 하는 것 비용 ⬆︎, 좋은 방법 X 회피 (가장 많이 쓰는 방법) 은행 알고리즘 (계산법 출제) 모든 자원을 자원 유형으로 그룹 안정 상태 프로세스가 작업을 유한 시간 내에 완료되도록 보장 불안정 상태 교착 상태에 있지 않지만 프로세스가 작업을 유한 시간 내에 완료되도록 보장 못함 자원에 번호를 매겨서 오름(내림)차순으로만 자원을 할당 회복 특별한 알고리즘이 없기에 경험으로 해결 메모리 분할 방식 (출제)</description>
-    </item>
-    
   </channel>
 </rss>
