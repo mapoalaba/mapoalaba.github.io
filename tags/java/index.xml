@@ -11,22 +11,13 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Oct 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Dec 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[Java] 02. 객체 지향 프로그래밍</title>
-      <link>https://mapoalaba.github.io/posts/java/java02/</link>
-      <pubDate>Fri, 20 Oct 2023 11:30:03 +0000</pubDate>
+      <title>🚓🚨 경찰아저씨 Java 빨리 자바주세요 🚨🚓</title>
+      <link>https://mapoalaba.github.io/posts/java/java/</link>
+      <pubDate>Fri, 22 Dec 2023 11:30:03 +0000</pubDate>
       
-      <guid>https://mapoalaba.github.io/posts/java/java02/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    <item>
-      <title>[Java] 01. Java에 입장하신걸 환영합니다.</title>
-      <link>https://mapoalaba.github.io/posts/java/java01/</link>
-      <pubDate>Thu, 19 Oct 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://mapoalaba.github.io/posts/java/java01/</guid>
+      <guid>https://mapoalaba.github.io/posts/java/java/</guid>
       <description>Desc Text.</description>
     </item>
     
