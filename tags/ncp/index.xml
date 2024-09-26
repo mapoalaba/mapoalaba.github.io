@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>마포알라바 블로그</title>
-    <link>https://mapoalaba.github.io/</link>
-    <description>Recent content on 마포알라바 블로그</description>
+    <title>NCP on 마포알라바 블로그</title>
+    <link>https://mapoalaba.github.io/tags/ncp/</link>
+    <description>Recent content in NCP on 마포알라바 블로그</description>
     <image>
       <title>마포알라바 블로그</title>
       <url>https://mapoalaba.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Sep 2024 11:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Sep 2024 11:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/tags/ncp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> NCP - 개인 계정으로 가입 [EP-1] </title>
       <link>https://mapoalaba.github.io/posts/ncp/ncp_1/</link>
@@ -20,17 +20,6 @@
       <guid>https://mapoalaba.github.io/posts/ncp/ncp_1/</guid>
       <description>Desc Text.</description>
     </item>
-    
-    <item>
-      <title>GitHub.io와 Hugo를 이용한 블로그 구축 가이드</title>
-      <link>https://mapoalaba.github.io/posts/git/github01/</link>
-      <pubDate>Tue, 04 Apr 2023 11:30:03 +0000</pubDate>
-      
-      <guid>https://mapoalaba.github.io/posts/git/github01/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
