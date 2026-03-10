@@ -11,23 +11,32 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Sep 2024 11:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Mar 2026 11:30:03 +0000</lastBuildDate><atom:link href="https://mapoalaba.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title> NCP - 개인 계정으로 가입 [EP-1] </title>
-      <link>https://mapoalaba.github.io/posts/ncp/ncp_1/</link>
-      <pubDate>Wed, 25 Sep 2024 11:30:03 +0000</pubDate>
+      <title>GitHub.io와 Hugo를 이용한 블로그 구축 가이드</title>
+      <link>https://mapoalaba.github.io/posts/git/github01/</link>
+      <pubDate>Sat, 07 Mar 2026 11:30:03 +0000</pubDate>
       
-      <guid>https://mapoalaba.github.io/posts/ncp/ncp_1/</guid>
+      <guid>https://mapoalaba.github.io/posts/git/github01/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
-      <title>GitHub.io와 Hugo를 이용한 블로그 구축 가이드</title>
-      <link>https://mapoalaba.github.io/posts/git/github01/</link>
-      <pubDate>Tue, 04 Apr 2023 11:30:03 +0000</pubDate>
+      <title> 왜 VPC부터 설계했을까? ( 공격 체인을 정의하는 첫 단계 ) </title>
+      <link>https://mapoalaba.github.io/posts/project/cloud-attack-chain-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mapoalaba.github.io/posts/git/github01/</guid>
-      <description>Desc Text.</description>
+      <guid>https://mapoalaba.github.io/posts/project/cloud-attack-chain-02/</guid>
+      <description>Terraform 기반 AWS 인프라를 구성하고 tfsec 결과를 Attack Graph로 연결하는 클라우드 보안 프로젝트를 시작하며 정리한 개인 개발 기록.</description>
+    </item>
+    
+    <item>
+      <title> 취약점은 리스트가 아니라 흐름이다 ( AI 기반 클라우드 공격 체인 분석 시스템을 시작하며 ) </title>
+      <link>https://mapoalaba.github.io/posts/project/cloud-attack-chain-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mapoalaba.github.io/posts/project/cloud-attack-chain-01/</guid>
+      <description>Terraform 기반 AWS 인프라를 구성하고 tfsec 결과를 Attack Graph로 연결하는 클라우드 보안 프로젝트를 시작하며 정리한 개인 개발 기록.</description>
     </item>
     
   </channel>
